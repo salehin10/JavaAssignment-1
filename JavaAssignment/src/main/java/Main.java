@@ -16,6 +16,8 @@ public class Main {
         ShuffleNumbers sn = new ShuffleNumbers();
         ReverseNumber reverseNumber = new ReverseNumber();
         DuplicateValue duplicateValue = new DuplicateValue();
+        Palindrome palindrome = new Palindrome();
+        Words words = new Words();
 
         //swt.swapWithTemVariable();
         //swot.swapWithoutTem();
@@ -30,7 +32,9 @@ public class Main {
         //sl.secondLarge();
         //sn.shuffleNumbers();
         //reverseNumber.reverseNumber();
-        duplicateValue.duplicateValue();
+        //duplicateValue.duplicateValue();
+        //words.countOfWords();
+        palindrome.checkPalindrome();
 
 
     }
